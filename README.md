@@ -1,3 +1,3 @@
 # Guess the Number
 
-H
+Guess the computer's chosen number!
